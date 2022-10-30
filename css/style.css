@@ -1,0 +1,22 @@
+
+body {background-color: LightPink;}
+
+.ortala {
+    text-align: center;
+}
+
+.bosluk {
+    word-spacing:25px;
+}
+
+p {
+    font-size: 18px;
+}
+
+h3 {
+    color: blue;
+}
+
+li {
+    list-style-position: inside
+}
